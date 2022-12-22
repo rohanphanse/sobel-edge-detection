@@ -1,0 +1,7 @@
+venv
+.git
+.config
+.replit
+replit.nix
+.breakpoints
+poetry.lock
